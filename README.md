@@ -1,5 +1,8 @@
-# Demo Link
-https://netflix-clone-425f6.web.app/
+
+
+## Netflix Demo Link
+You can view the site here
+[Click Me](https://netflix-clone-425f6.web.app/)
 
 # Getting Started with Create React App
 
